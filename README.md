@@ -1,5 +1,4 @@
-# testForSkai
-The program which define the most valuable player of tournament
+# Project description
 The program starts from the console where you must enter the exact number of players. The number has to correspond to 
 the number of players in the CSV file.  After you enter the number the program calls the method "createObjectsForTornament" 
 from the tournament object and creates (six) empty objects of players. Then the program checks all files in the folder "CSV_files". 
